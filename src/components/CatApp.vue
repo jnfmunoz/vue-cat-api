@@ -17,7 +17,6 @@
     <h1>{{ title }}</h1>
 
     <div class="card">
-        <!-- <button type="button" @click="fetchImage">count is {{ count }}</button> -->
         <button type="button" @click="updateImage">Click me!</button>        
     </div>
 
